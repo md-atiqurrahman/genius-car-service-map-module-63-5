@@ -30,7 +30,6 @@ const RequireAuth = ({ children }) => {
             >
                 Send Verification Email Again
             </button>
-            <ToastContainer></ToastContainer>
         </div>
     }
 
